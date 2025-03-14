@@ -1,0 +1,6 @@
+streamlit
+requests
+google-generativeai
+langchain-google-genai
+langchain-community
+langchain
